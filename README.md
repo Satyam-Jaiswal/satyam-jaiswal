@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 ,I'm Satyam Jaiswal
+<dr>
+  ## A passionate developer and a ML enthusiast.
 
 <!--
 **Satyam-Jaiswal/satyam-jaiswal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
