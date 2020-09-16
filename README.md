@@ -17,7 +17,7 @@
 <br />
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=satyam-jaiswal&show_icons=true" alt="Satyam-Jaiswal" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Satyam-Jaiswal&&count_private=true&show_icons=true" alt="Satyam-Jaiswal" /></p>
 
 <p align="center">
 <a href="https://www.facebook.com/satyam.jaiswal.3158/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="satyam_jaiswal" height="30" width="30" /></a>
