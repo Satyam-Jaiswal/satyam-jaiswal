@@ -1,6 +1,7 @@
 <h2 align="center">Hi 👋, I'm Satyam Jaiswal</h2>
 <h4 align="center">A passionate developer and a ML Enthusiast.</h4>
 
+https://komarev.com/ghpvc/?username=satyam-jaiswal
 
 - 🔭 Most Recent Project Walnut App
 
