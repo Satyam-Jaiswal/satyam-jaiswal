@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satyam-jaiswal" alt="satyam-jaiswal" /> </p>
 
-- 🔭 Most Recent Project Walnut App
-
 - 🌱 I’m currently learning **Data Structures and Algorithms, Flutter and a lot more**
 
 - 💬 Ask me about **flutter, HTML, CSS**
