@@ -24,7 +24,7 @@
  <img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/github/github-original-wordmark.svg" alt="github" width="40" height="40"/> 
  <img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
  <img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
- <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+
  
 <br />
 
