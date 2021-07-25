@@ -69,7 +69,7 @@
 
 <p align="center">
 
-<img  width="48%"  src="https://github-readme-stats.vercel.app/api?username=satyam-jaiswal&show_icons=true&locale=en" alt="satyam-jaiswal" />
+<img  width="48%"  src="https://github-readme-stats.vercel.app/api?username=satyam-jaiswal&show_icons=true&&count_private=true&locale=en" alt="satyam-jaiswal" />
 
 <img  width="48%"  src="https://github-readme-streak-stats.herokuapp.com/?user=satyam-jaiswal&" alt="satyam-jaiswal" />
 </p>
