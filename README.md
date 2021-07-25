@@ -31,7 +31,7 @@
 <table>
   <tr>
     <td>
-      <a href="https://https://www.linkedin.com/in/satyam-jaiswal-a92b46195/"> 
+      <a href="https://www.linkedin.com/in/satyam-jaiswal-a92b46195/"> 
         <img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/> 
       </a> 
     </td>
