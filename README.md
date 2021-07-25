@@ -53,7 +53,7 @@
 </table>
 
 ---
-[![Satyam's github activity graph](https://activity-graph.herokuapp.com/graph?username=satyam-jaiswal&theme=xcode)] (https://git.io/satyam-jaiswal)
+[![satyam's github activity graph](https://activity-graph.herokuapp.com/graph?username=satyam-jaiswal)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 ## ⚡ Technologies
