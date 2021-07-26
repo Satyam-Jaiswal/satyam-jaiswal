@@ -52,6 +52,7 @@
   </tr>
 </table>
 </p>
+
 ---
 ![satyam's github activity graph](https://activity-graph.herokuapp.com/graph?username=satyam-jaiswal&theme=xcode)
 
