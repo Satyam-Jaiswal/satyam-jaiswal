@@ -27,7 +27,7 @@
 <div>
 </div>
 <h3> Connect with Me :mag: </h3> 
-
+<p align="center">
 <table>
   <tr>
     <td>
@@ -51,7 +51,7 @@
     </td>
   </tr>
 </table>
-
+</p>
 ---
 ![satyam's github activity graph](https://activity-graph.herokuapp.com/graph?username=satyam-jaiswal&theme=xcode)
 
