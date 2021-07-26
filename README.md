@@ -53,7 +53,7 @@
 </table>
 
 ---
-[![satyam's github activity graph](https://activity-graph.herokuapp.com/graph?username=satyam-jaiswal&theme=xcode)]
+![satyam's github activity graph](https://activity-graph.herokuapp.com/graph?username=satyam-jaiswal&theme=xcode)
 
 
 <!-- (https://github.com/ashutosh00710/github-readme-activity-graph) -->
