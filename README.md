@@ -1,4 +1,4 @@
-<h1 align="center"> Hey there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> Satyam here :v: </h1>
+<h1 align="center"> Hey there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="28""> Satyam here :v: </h1>
 <h2 align="center"> Coder :coffee: Developer :heart: </h2>
 
 <img align="left" width="250" height="350" src="https://user-images.githubusercontent.com/76843281/105200067-705e8800-5b65-11eb-9cfc-bbb74fdb8987.png"/>
